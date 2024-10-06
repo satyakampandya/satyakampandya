@@ -8,7 +8,7 @@
 - 🚀 I’m passionate about creating efficient, user-friendly, and scalable solutions.
 - 💞 Actively seeking collaboration on open-source Ruby/Rails projects, such as [Spree Stripe Subscriptions](https://bit.ly/spree-stripe-subscriptions), [Sidekiq Cron](https://github.com/sidekiq-cron/sidekiq-cron/commits/master/?author=satyakampandya).
 - 🎬 I enjoy watching movies on <img height="14" src="https://cdn.simpleicons.org/Netflix"> and listening to music on <img height="14" src="https://cdn.simpleicons.org/Spotify">.
-- <img height="16" src="https://cdn.simpleicons.org/buymeacoffee"/> If you like my work, feel free to [buying me a coffee](https://buymeacoffee.com/satyakampandya) – your support is greatly appreciated!
+- <img height="14" src="https://cdn.simpleicons.org/buymeacoffee"/> If you like my work, feel free to [buying me a coffee](https://buymeacoffee.com/satyakampandya) – your support is greatly appreciated!
 
 ### 📫 How to reach me:
 
